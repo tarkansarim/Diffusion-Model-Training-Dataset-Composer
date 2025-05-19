@@ -20,11 +20,5 @@ Run with:
 python3 dataset_sampler.py
 ```
 
-Windows users can launch the tool via `run_sampler.bat`, which creates a
-virtual environment and installs the required dependencies automatically:
-
-```bat
-run_sampler.bat
-```
 
 Note: this is a minimal implementation and may not cover all desired features.

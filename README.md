@@ -17,7 +17,15 @@ folder via `QSettings`.
 Run with:
 
 ```bash
-python3 dataset_sampler.py
+python image_sampler_tool.py
 ```
 
-Note: this is a minimal implementation and may not cover all desired features.
+Create and activate a virtual environment, then install requirements:
+
+```bash
+python -m venv venv
+source venv/bin/activate  # on Windows use venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+You can also use `run_sampler.bat` on Windows.

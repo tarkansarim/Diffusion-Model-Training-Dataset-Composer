@@ -31,6 +31,7 @@ pip install PyQt5 Pillow
 ```
 
 ---
+![csfdsf](https://github.com/user-attachments/assets/405baa73-8001-4a46-9482-ab71e242ad17)
 
 ## Usage
 

@@ -1,1 +1,4 @@
-PyQt5>=5.15.0
+PyQt5
+Pillow
+toml>=0.10.0
+tomli-w>=1.0.0

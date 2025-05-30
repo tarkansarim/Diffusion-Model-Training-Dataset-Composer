@@ -1,5 +1,5 @@
 # Diffusion Training Dataset Composer
-<img src="https://github.com/user-attachments/assets/405baa73-8001-4a46-9482-ab71e242ad17" width="400"/>
+  <img src="https://github.com/user-attachments/assets/405baa73-8001-4a46-9482-ab71e242ad17" width="400"/>
 
 A powerful, user-friendly PyQt5-based tool for composing training datasets for diffusion models, supporting both LoRA/DreamBooth and Fine-tuning workflows. Designed for maximum flexibility, robust error handling, and a modern, intuitive UI.
 
